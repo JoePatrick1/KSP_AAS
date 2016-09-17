@@ -1,0 +1,5 @@
+c:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData\AutoAbortSystem\AutoAbortSystem.dll
+c:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData\AutoAbortSystem\AutoAbortSystem.pdb
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\obj\Release\AutoAbortSystem.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\obj\Release\AutoAbortSystem.pdb
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\obj\Release\AutoAbortSystem.csprojResolveAssemblyReference.cache

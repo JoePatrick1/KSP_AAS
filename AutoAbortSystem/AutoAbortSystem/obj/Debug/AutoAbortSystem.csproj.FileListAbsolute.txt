@@ -1,0 +1,15 @@
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\AutoAbortSystem.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\AutoAbortSystem.pdb
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\Assembly-CSharp.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\UnityEngine.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\TrackIRUnity.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\UnityEngine.UI.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\KSPAssets.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\Mono.Cecil.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\TDx.TDxInput.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\Mono.Security.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\bin\Debug\UnityEngine.xml
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\obj\Debug\AutoAbortSystem.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\obj\Debug\AutoAbortSystem.dll
+c:\users\joe\documents\visual studio 2015\Projects\AutoAbortSystem\AutoAbortSystem\obj\Debug\AutoAbortSystem.pdb
